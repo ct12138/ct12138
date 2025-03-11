@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Tsinghua University
+- 🌱 I’m currently learning AI
+- 🤔 I’m looking for help with AI
+
 <!--
 **ct12138/ct12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
